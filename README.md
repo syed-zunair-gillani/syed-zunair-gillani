@@ -23,7 +23,7 @@
 - 🏢 I'm currently working at **Softgens**
 - ⚙️ I use daily: `.js`, `.php`, `.css`, `.scss`
 - 🌍 I'm mostly active within the **Java script Community**
-- 🌱 Learning all about **DevOps**
+- 🌱 Learning all about **Javascript**
 - 💬 Ping me about **Javascript**, **Php**, **RestAPIs**, **Keycloak**
 - 📫 Reach me:<!-- - [twitter.com/sudiptob2](https://twitter.com/sudiptob2) -->
 <!-- - 📝 Checkout my [Resume](files/resume.pdf). -->
